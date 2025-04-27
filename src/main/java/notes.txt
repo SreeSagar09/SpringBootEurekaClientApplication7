@@ -1,0 +1,7 @@
+A Simple Netflix Eureka Client as Producer application:
+Programs:
+* SpringBootEurekaClientApplication7Application.java
+* ProducerController.java
+Notes:
+
+Output:
