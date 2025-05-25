@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app</groupId>
-	<artifactId>SpringBootEurekaClientApplication5</artifactId>
+	<artifactId>SpringBootEurekaClientApplication7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootEurekaClientApplication5</name>
+	<name>SpringBootEurekaClientApplication7</name>
 	<description>Demo project for Spring Boot</description>
 	<url />
 	<licenses>
